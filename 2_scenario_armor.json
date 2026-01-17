@@ -1,0 +1,19 @@
+{
+  "done": {
+    "variables": {
+      "lives": {
+        "op": "2"
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "score": {
+        "reward": 0.001
+      },
+      "x-scroll": {
+        "reward": 1000
+      }
+    }
+  }
+}

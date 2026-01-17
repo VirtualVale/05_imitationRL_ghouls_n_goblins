@@ -1,0 +1,20 @@
+{
+  "info": {
+    "lives": {
+      "address": 8258212,
+      "type": "|i1"
+    },
+    "score": {
+      "address": 8258197,
+      "type": ">n6"
+    },
+    "x-scroll": {
+      "address": 8265370,
+      "type": "|u1"
+    },
+    "armor": {
+      "address": 8262842,
+      "type": "|u1"
+    }
+  }
+}
