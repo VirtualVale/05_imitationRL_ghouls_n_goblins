@@ -3,9 +3,9 @@
 > *An experimental Reinforcement Learning project inspired by AI-controlled “ghost” gameplay.*
 
 Insights:
-[text](0_initial-insights-stage-0.md)
-[text](1_insights-stage-1.md)
-[text](2_insights-stage-2.md)
+* [Stage I](0_initial-insights-stage-0.md)
+* [Stage II](1_insights-stage-1.md)
+* [Stage III](2_insights-stage-2.md)
 
 ---
 
